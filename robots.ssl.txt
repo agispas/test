@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Sitemap: https://festivuss.com/sitemap.xml
+
+# disallow CuteStat
+User-agent: CuteStat
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
